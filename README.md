@@ -12,7 +12,8 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🤸 [Quick Start](#quick-start)
+3. ⚡️ [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
 ## 🚨 Tutorial
 
@@ -32,6 +33,15 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 - JavaScript
 - Vite
 - CSS
+
+## <a name="features">⚡️ Features</a>
+
+- 🎯 **Matching Logic** - Flip and match card pairs
+- 📊 **Score Tracking** - Track moves and score
+- 🎨 **Smooth Animations** - Card flip animations and transitions
+- 🏆 **Win Detection** - Automatic game completion detection
+- 🔄 **Game Reset** - Start new games with shuffled cards
+- 🎲 **Randomization** - Cards shuffle on each game start
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
